@@ -1,10 +1,10 @@
 ## Hi, I'm George 👋
 
-🎓 Studying Computer Engineering at the Technical University of Cluj-Napoca, specializing in Information Technology.
+🎓 Studying [Computer Engineering](https://ac.utcluj.ro/acasa.html) at the [Technical University of Cluj-Napoca](https://www.utcluj.ro/en/), specialization: Information Technology.
 <br>
 🌱 I am a quick learner looking for opportunities that help me grow my knowledge base.
 <br>
-🕹️ Passionate about game development, and game-engine programing.
+🕹️ Passionate about Game Development, and Game-Engine Programing.
 <br>
 👨🏻‍💻 I present a keen interest in Low-Level Programing and Cyber Security.
 <br>
