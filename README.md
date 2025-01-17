@@ -1,5 +1,14 @@
 ## Hi, I'm George 👋
 
+🎓 Studying [Computer Engineering](https://ac.utcluj.ro/acasa.html) at the [Technical University of Cluj-Napoca](https://www.utcluj.ro/en/), specialization: Information Technology.
+<br>
+🌱 I am a quick learner looking for opportunities that help me grow my knowledge base.
+<br>
+🕹️ Passionate about Game Development, and Game-Engine Programing.
+<br>
+👨🏻‍💻 I present a keen interest in Low-Level Programing and Cyber Security.
+<br>
+💼🤝🏽 Currently, I am looking for a job that best fits my skills. Ready to be part of a team, willing to teach me new things, while I offer patience, diligence, teamwork and collaboration.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Opruta George) 
@@ -11,17 +20,6 @@
 <br>
 <br>
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-🎓 Studying [Computer Engineering](https://ac.utcluj.ro/acasa.html) at the [Technical University of Cluj-Napoca](https://www.utcluj.ro/en/), specialization: Information Technology.
-<br>
-🌱 I am a quick learner looking for opportunities that help me grow my knowledge base.
-<br>
-🕹️ Passionate about Game Development, and Game-Engine Programing.
-<br>
-👨🏻‍💻 I present a keen interest in Low-Level Programing and Cyber Security.
-<br>
-💼🤝🏽 Currently, I am looking for a job that best fits my skills. Ready to be part of a team, willing to teach me new things, while I offer patience, diligence, teamwork and collaboration.<br>
-
 
 
 
