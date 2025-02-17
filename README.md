@@ -19,7 +19,7 @@
 💼🤝🏽 Currently, I am looking for a job that best fits my skills. Ready to be part of a team, willing to teach me new things, while I offer patience, diligence, teamwork and collaboration.<br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]( https://linkedin.com/in/OprutaGeorge ) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/opruta-george-832b1226b/) 
 
 
 # 📊 GitHub Stats:
